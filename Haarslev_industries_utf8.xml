@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-16"?>
+<tag property="something_that_does_not_exist"></tag>
 <comp:VBProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:appl="http://com.virtubuild/schemas/appl.ecore" xmlns:array="http://virtubuil.com/schemas/array.ecore" xmlns:comp="http://virtubuil.com/schemas/comp.ecore" xmlns:exporter="http://virtubild.com/schemas/exporter.ecore" xmlns:gui="http://virtubild.com/schemas/gui.ecore" name="Haarslev_industries" uuid="_JI1jIQsDEeObPp8vhVrWvw" modelType="enterprise" modelTemplateVersion="2">
   <tagtag prop="always_no_sense"></tagtag>
   <proxy href="workspace.xml#_JVT44QsDEeObPp8vhVrWvw"/>
